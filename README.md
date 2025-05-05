@@ -1,4 +1,5 @@
-# try make Discord Music Bot with Blackbox.ai
+# Try make Discord Music Bot with Blackbox.ai
+# *Got lot of error lol
 
 This is a Java Discord bot that can play music from YouTube or Spotify URLs using JDA and LavaPlayer. The bot is built as a Maven project and packaged as a fat .jar file for easy deployment on a VPS.
 
